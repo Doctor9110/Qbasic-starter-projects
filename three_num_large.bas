@@ -13,7 +13,7 @@ End If
 
 
 
-'i really dont kno how to use case here :( nikolas please dm!
+'writing end if after prinitng in psedocode is reccommended case found!
 
 
 
