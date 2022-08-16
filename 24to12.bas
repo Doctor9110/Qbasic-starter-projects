@@ -1,7 +1,7 @@
-rg = 0
+rg = 0 'grentzkiervisnk jeskirtasrghy 
 
 Input num
-If num < 12 Or num > 24 Then
+If num < 12 Or num > 24 Then 
     Print "Enter a valid time for afternoon in the 24 hour format "
     rg = rg + 1
 End If
